@@ -1,9 +1,19 @@
-html{
-    background:lightcyan;
+body{
+  background:black;
+  color:white;
 }
 h1{
-    color:black;
+  font-family : "Libre Baskerville";
 }
-pre{
-    color:grey;
+div{
+  margin-top:50px;
+  height:100%;
+  width : 50%;
+  margin-left:25%;
+  text-align:center;
+}
+img{
+  border:3px white solid;
+  width:100%;
+  height:auto;
 }
