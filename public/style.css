@@ -1,19 +1,17 @@
-body{
-  background:black;
-  color:white;
-}
-h1{
-  font-family : "Libre Baskerville";
-}
-div{
-  margin-top:50px;
-  height:100%;
-  width : 50%;
-  margin-left:25%;
-  text-align:center;
+#red{color : red;}
+
+#blue{color : blue;}
+
+#orange{color : orange;}
+
+#green{color : green;}
+
+#yellow{color : yellow;}
+
+.color-title{
+    font-weight:normal;
 }
 img{
-  border:3px white solid;
-  width:100%;
-  height:auto;
+    height:200px;
+    width:200px;
 }
